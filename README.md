@@ -7,5 +7,4 @@ Machine learning with python projects using Tensorflow.
 
 ### Linear regression health cost calculator:
 #### Predicted healthcare costs using a regression algorithm.
-
 #### The aim is for the model to return a Mean Absolute Error of under 3500. This means it predicts health care costs correctly within $3500.
