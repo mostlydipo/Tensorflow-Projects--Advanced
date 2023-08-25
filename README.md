@@ -12,4 +12,4 @@ Predicted healthcare costs using a regression algorithm. The aim is for the mode
 using a dataset containing 1.1 million ratings (scale of 1-10) of 270,000 books by 90,000 users. After importing and cleaning the data, NearestNeighbors from sklearn.neighbors was developed to develop a model that shows books that are similar to a given book. The Nearest Neighbors algorithm measures the distance to determine the “closeness” of instances.
 
 ## Cat and Dog image classifier using Tensorflow and Keras:
-Complete the code to classify images of dogs and cats. Using TensorFlow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs at least 63% of the time. (Extra credit for 70% accuracy!).
+Completed the code to classify images of dogs and cats. Using TensorFlow 2.0 and Keras to create a convolutional neural network that correctly classifies images of cats and dogs at least 63% of the time. (Extra credit for 70% accuracy!).
